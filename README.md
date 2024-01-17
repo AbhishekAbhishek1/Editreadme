@@ -12,9 +12,9 @@ https://github.com
 ```
 # Theory 
 ### Telemac 
-Mesh file (`casename.slf`): 
-Boundary conditions file (`casename.cli`)
-Output file (case output.slf)
+* Mesh file (`casename.slf`): 
+* Boundary conditions file (`casename.cli`)
+* Output file (case output.slf)
 
 ### Bayesian Calibration 
 
