@@ -34,8 +34,8 @@ The Virtual Machine configuration fir this project is as follows:
 config.py
 ```
 # global python libraries used
- import mumpy as np
- import pandas as pd
+    import mumpy as np
+    import pandas as pd
  
 # necessary basic python libraries
  import logging
