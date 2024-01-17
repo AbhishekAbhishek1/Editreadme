@@ -22,5 +22,7 @@ https://github.com
 ### Brief Overview of the Components
 
 # Author 
+* Andres
+* Abhishek 
 
 
