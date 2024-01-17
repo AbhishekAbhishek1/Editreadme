@@ -31,7 +31,12 @@ The Virtual Machine configuration fir this project is as follows:
 
 ## Data
 
-config.py
+#### Main.py
+
+#### log.py
+The file starts the logger and set up its StreamHandler. Log Configurations are also set up. 
+
+#### config.py
 ```
 # global python libraries used
 
