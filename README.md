@@ -18,6 +18,12 @@ https://github.com
 
 ## Data
 
+# global python libraries used 
+
+# necessary basic python libraries
+
+
+
 ![UML]
 ### Brief Overview of the Components
 
