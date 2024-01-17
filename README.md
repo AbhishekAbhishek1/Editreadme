@@ -19,11 +19,11 @@ https://github.com
 ## Data
 
 config.py
-'''
+```
 # global python libraries used 
 
 # necessary basic python libraries
-'''
+```
 
 
 ![UML]
