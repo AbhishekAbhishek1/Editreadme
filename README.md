@@ -29,6 +29,9 @@ The Virtual Machine configuration fir this project is as follows:
   * Python 3
   * PyCharm Community Edition
 
+![UML]
+### Brief Overview of the Components
+
 ## Data
 
 #### Main.py
@@ -50,8 +53,7 @@ import pandas as pd
  import math
 ```
 
-![UML]
-### Brief Overview of the Components
+
 
 # References
 
