@@ -12,6 +12,10 @@ https://github.com
 ```
 # Theory 
 ### Telemac 
+Mesh file (`casename.slf`): 
+Boundary conditions file (`casename.cli`)
+Output file (case output.slf)
+
 ### Bayesian Calibration 
 
 ## Requirements
@@ -34,9 +38,11 @@ config.py
 # necessary basic python libraries
 ```
 
-
 ![UML]
 ### Brief Overview of the Components
+
+# References
+
 
 # Author 
 * Andres
