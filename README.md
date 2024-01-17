@@ -16,7 +16,7 @@ https://github.com
 
 ## Requirements
 ### Virtual Machine
-The Virtual Nachine with Linux Mint Xfce 21.1. This VM boasts a spacious 64 GB SATA storage and come pre-loaded with sessential tools:
+The Virtual Machine configuration fir this project is as follows:
 * Operationg System: Linux Mint Xfce 21.2
 * Storage: SATA 64 GB
 * Software
