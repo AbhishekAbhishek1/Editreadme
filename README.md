@@ -12,6 +12,8 @@ https://github.com
 ```
 # Theory 
 ### Telemac 
+write about the telemac
+
 * Mesh file (`casename.slf`)
 * Boundary conditions file (`casename.cli`)
 * Output file (`case output.slf`)
