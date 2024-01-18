@@ -19,9 +19,9 @@ write about the telemac
 * Calling Shell Files
 * Running Telemac
 
- * Mesh file (`casename.slf`)
- * Boundary conditions file (`casename.cli`)
- * Output file (`case output.slf`)
+* Mesh file (`casename.slf`)
+* Boundary conditions file (`casename.cli`)
+* Output file (`case output.slf`)
 
 ### Bayesian Calibration 
 What is Bayesian callibration ?
