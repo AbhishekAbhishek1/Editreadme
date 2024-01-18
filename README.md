@@ -14,11 +14,11 @@ https://github.com
 ### Telemac 
 write about the telemac
 * Install Required Software:
-    * Installing apps using apt:
+    * Installing an apps using apt:
       ```
       sudo apt install app_name
       ```
-  * Uninstalling an app via apt
+  * Uninstalling an app using apt
     ```
     sudo apt remove app_name
     ```
