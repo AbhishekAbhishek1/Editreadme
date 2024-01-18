@@ -18,9 +18,9 @@ write about the telemac
 * Environment Scripts:
 * Calling Shell Files
 * Running Telemac
-  `
+  ```
   python (filename)
-  `
+  ```
 
 * Mesh file (`casename.slf`)
 * Boundary conditions file (`casename.cli`)
