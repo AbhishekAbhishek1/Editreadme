@@ -13,6 +13,11 @@ https://github.com
 # Theory 
 ### Telemac 
 write about the telemac
+* Install Required Software:
+* Accessing Course Materials:
+* Environment Scripts:
+* Calling Shell Files
+* Running Telemac
 
 * Mesh file (`casename.slf`)
 * Boundary conditions file (`casename.cli`)
