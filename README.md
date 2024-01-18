@@ -14,6 +14,16 @@ https://github.com
 ### Telemac 
 write about the telemac
 * Install Required Software:
+    * Installing apps using apt is as easy as:
+      ```
+      sudo apt install app_name
+
+      ```
+  * Uninstalling an app via apt
+    ```
+    sudo apt remove app_name
+    ```
+    
 * Accessing Course Materials:
 * Environment Scripts:
 * Calling Shell Files
