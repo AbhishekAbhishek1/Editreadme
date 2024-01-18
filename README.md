@@ -19,6 +19,7 @@ write about the telemac
 * Output file (`case output.slf`)
 
 ### Bayesian Calibration 
+What is Bayesian callibration ?
 
 ## Requirements
 ### Virtual Machine
