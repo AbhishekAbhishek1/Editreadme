@@ -3,13 +3,52 @@
 # Python Package for Bayesian Calibration from Telemac Simulations
 
 ***
-> ***Background***:
+>***Purpose***:
+> ***Motivation***:
 > ***Goal***:
 
 GitHub Repository URL
 ```
 https://github.com
 ```
+## Usage Instructions
+
+## Requirements
+* To use this code, make sure you have the following requirements installed:
+* [List all the non-standard Python libraries or dependencies required].
+* [Include version information if specific versions are needed].
+
+## Code Diagram
+
+
+## Documentation of Functions and Classes
+
+Documentation of Functions and Classes
+Provide documentation for all functions and custom classes in the code. Include details about the actions performed, input arguments, output, and data types.
+
+function_name(arg1, arg2) -> return_type
+Description of the function or method.
+
+arg1 (type): Description of the first argument.
+arg2 (type): Description of the second argument.
+Returns: Description of the return value and its type.
+ClassName
+Description of the custom class.
+
+Methods
+method_name(arg1, arg2) -> return_type
+Description of the method.
+
+arg1 (type): Description of the first argument.
+arg2 (type): Description of the second argument.
+Returns: Description of the return value and its type.
+<!-- Repeat for other functions and classes -->
+Contributing
+If you'd like to contribute to the project, please follow the guidelines in CONTRIBUTING.md.
+
+License
+This project is licensed under the [License Name] - see the LICENSE.md file for details.
+
 # Theory 
 ### Telemac 
 write about the telemac
@@ -74,9 +113,7 @@ import pandas as pd
 ```
 
 
-
 # References
-
 
 # Author 
 * Andres
