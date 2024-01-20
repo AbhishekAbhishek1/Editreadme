@@ -3,23 +3,62 @@
 # Python Package for Bayesian Calibration from Telemac Simulations
 
 ***
->***Purpose***:
-> ***Motivation***:
-> ***Goal***:
+>***Purpose***: Tell the Telemac, bla bla bla bla 
+> ***Motivation***: bla bla bla bla 
+> ***Goal***: Create a package which is able to run the multiple simulation of Telemac and along with the Bayesian calibration 
 
 GitHub Repository URL
 ```
 https://github.com
 ```
-## Usage Instructions
 
 ## Requirements
 * To use this code, make sure you have the following requirements installed:
-* [List all the non-standard Python libraries or dependencies required].
-* [Include version information if specific versions are needed].
+
+### Virtual Machine
+The Virtual Machine configuration fir this project is as follows:
+* Operationg System: Linux Mint Xfce 21.2
+* Storage: SATA 64 GB
+* Software
+  * QGIS
+  * Telemac V8p4r0 (MPI distribution and Metis 5.1.0)
+  * Python 3
+  * PyCharm Community Edition
+* Python Library
+  * matplotlib
+  * mpi4py
+  * numpy
+  * openpyxl
+  * pandas
+  * scikit-learn
+
+## Usage Instructions
+Install Required Software:
+    * Installing an apps using apt:
+      ```
+      sudo apt install app_name
+      ```
+  * Uninstalling an app using apt
+    ```
+    sudo apt remove app_name
+    ```
+    
+* Accessing Course Materials:
+* Environment Scripts:
+* Calling Shell Files
+* Running Telemac
+  ```
+  python (filename)
+  ```
+
+* Mesh file (`casename.slf`)
+* Boundary conditions file (`casename.cli`)
+* Output file (`case output.slf`)
+
 
 ## Code Diagram
-
+![UML]
+### Brief Overview of the Components
 
 ## Documentation of Functions and Classes
 
@@ -46,53 +85,6 @@ Returns: Description of the return value and its type.
 Contributing
 If you'd like to contribute to the project, please follow the guidelines in CONTRIBUTING.md.
 
-License
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-
-# Theory 
-### Telemac 
-write about the telemac
-* Install Required Software:
-    * Installing an apps using apt:
-      ```
-      sudo apt install app_name
-      ```
-  * Uninstalling an app using apt
-    ```
-    sudo apt remove app_name
-    ```
-    
-* Accessing Course Materials:
-* Environment Scripts:
-* Calling Shell Files
-* Running Telemac
-  ```
-  python (filename)
-  ```
-
-* Mesh file (`casename.slf`)
-* Boundary conditions file (`casename.cli`)
-* Output file (`case output.slf`)
-
-### Bayesian Calibration 
-What is Bayesian callibration ?
-
-## Requirements
-### Virtual Machine
-The Virtual Machine configuration fir this project is as follows:
-* Operationg System: Linux Mint Xfce 21.2
-* Storage: SATA 64 GB
-* Software
-  * QGIS
-  * Telemac V8p4r0 (MPI distribution and Metis 5.1.0)
-  * Python 3
-  * PyCharm Community Edition
-
-![UML]
-### Brief Overview of the Components
-
-## Data
-
 #### Main.py
 
 #### log.py
@@ -112,11 +104,13 @@ import pandas as pd
  import math
 ```
 
-
-# References
-
 # Author 
 * Andres
 * Abhishek 
 
+# References
 
+
+
+# License
+This project is licensed under the GNU - see the LICENSE.md file for details.
